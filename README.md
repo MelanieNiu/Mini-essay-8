@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repo discusses the relevant topic of missing data in data research and reviews some of the common strategies to address them. This mini essay is written in response to the tutorial exercise outlined in the book "Tell Stories with Data" by Rohan Alexander and can be accessed at https://tellingstorieswithdata.com/11-eda.html#tutorialLinks to an external site. 
+This repo discusses the relevant topic of missing data in data research and reviews some of the common strategies to address them. This mini essay is written in response to the tutorial exercise outlined in the textbook "Tell Stories With Data" by Rohan Alexander and can be accessed at https://tellingstorieswithdata.com/11-eda.html#tutorial.
 
 This README document explains the motivation for this repo and the repo files structure.
 
